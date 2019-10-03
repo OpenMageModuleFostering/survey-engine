@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/survey-engine",
+    "name": "OpenMageModuleFostering\/survey-engine",
     "type": "magento-module",
     "license": "Extension-license-name-(OSL-v3.0)",
     "homepage": "",
     "description": "Rainconcert  Customer Feedback Kit",
     "authors": [
-    {
-        "name": "Jason Koshy",
-        "email": "jason@rainconcert.in"
-    }
-],
+        {
+            "name": "Jason Koshy",
+            "email": "jason@rainconcert.in"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
